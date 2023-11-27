@@ -24,8 +24,7 @@
 
     <main>
         <form action="info.php" class="p-5">
-            <textarea rows="4" cols="50" name="testo" placeholder="Inserisci un testo...">
-            </textarea>
+            <textarea rows="4" cols="50" name="testo" placeholder="Inserisci un testo..."></textarea>
             <input type="text" name="parola" placeholder="Scrivi...">
             <button type="submit">Invia</button>
         </form>
